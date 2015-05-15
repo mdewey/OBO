@@ -1,7 +1,7 @@
 # Polymer Starter Project
 
 
-https://s-media-cache-ak0.pinimg.com/736x/2a/7c/34/2a7c34438187bc360b3f6ee853702059.jpg
+(https://s-media-cache-ak0.pinimg.com/736x/2a/7c/34/2a7c34438187bc360b3f6ee853702059.jpg)
 
 This project includes a set of Polymer components and a starter project,
 designed to be used with the [Polymer tutorial](http://polymer-project.org/docs/start/tutorial/intro.html).
